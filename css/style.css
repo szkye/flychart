@@ -1,6 +1,7 @@
 body  {
     background-color: #282a36;
     margin-top: 5%;
+    background-size: cover;
     background-image: url("../images/image.jpg");
 }
 
